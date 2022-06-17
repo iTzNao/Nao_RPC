@@ -1,2 +1,2 @@
 # Nao_RPC
-Custom Rich Presence Custom for Discord!
+Rich Presence Custom for Discord!
