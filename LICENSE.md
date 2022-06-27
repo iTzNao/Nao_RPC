@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022 iTzNao (iTz_Nao, Nao, Nao.gg)
+Copyright (c) 2022 Nao_Development
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
