@@ -33,14 +33,9 @@ namespace NaoRPC
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.Write("Please view 'README.md' before using.\n\n\n");
             Console.ResetColor();
-            Console.Write("    (@@@@ @@@@@@@@@@*       @@@@@@@@@@@#@@@@@      @@@@@@@@@@@@@       \n");
-            Console.Write("    (@@@@@@     @@@@@@    @@@@@@     ,@@@@@@@    @@@@@&     @@@@@@     \n");
-            Console.Write("    (@@@@        %@@@@   @@@@@          @@@@@   @@@@%         @@@@@    \n");
-            Console.Write("    (@@@@         @@@@   @@@@#          @@@@@   @@@@           @@@@    \n");
-            Console.Write("    (@@@@         @@@@   @@@@@          @@@@@   @@@@@         @@@@@    \n");
-            Console.Write("    (@@@@         @@@@    @@@@@@@   .@@@@@@@@    @@@@@@#   @@@@@@@     \n");
-            Console.Write("    (@@@@         @@@@      (@@@@@@@@@@ @@@@@      %@@@@@@@@@@@        \n\n");
-            Console.Write("            Nao_RPC - Rich Presence Custom for Discord!                \n\n\n");
+
+            Console.Write("Nao_Launcher\n");
+            Console.Write("--- Launch all your games from one launcher!\n");
         }
 
         public static void SetupData()
