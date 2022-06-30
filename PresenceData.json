@@ -1,1 +1,18 @@
-{}
+{
+    "Id": "987121734220152832",
+  
+    "Details": "Download Nao_RPC:",
+    "State": null,
+  
+    "LargeImageKey": "large",
+    "LargeImageText": null,
+  
+    "SmallImageKey": null,
+    "SmallImageText": null,
+  
+    "ButtonOneLabel": "Download",
+    "ButtonOneUrl": "https://nao.gg/discordrpc",
+  
+    "ButtonTwoLabel": "Source Code",
+    "ButtonTwoUrl": "https://nao.gg/discordrpc/github"
+  }
