@@ -45,42 +45,17 @@ namespace Nao_RPC_Forms
             mouseDown = false;
         }
 
-        private void Close(object sender, EventArgs e)
+        private void Close_Event(object sender, EventArgs e)
         {
             Application.Exit();
         }
 
-        private void Minimise(object sender, EventArgs e)
+        private void Minimise_Event(object sender, EventArgs e)
         {
             this.WindowState = FormWindowState.Minimized;
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void toolTip1_Popup(object sender, PopupEventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button3_Click_1(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }
